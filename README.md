@@ -14,7 +14,7 @@
 - **Languages:** Python (NumPy, pandas, matplotlib, Seaborn).
 - **Analysis Tools:** pClamp/Clampfit (Electrophysiology), GraphPad Prism, ImageJ/FIJI.
 - **Wet-Lab Mastery:** Behavior, microscopy, HPLC, acute-slice recordings, stereotaxic surgery, and in vivo microdialysis.
-- [cite_start]**Certifications:** FELASA Category C (Rat & Mouse)[cite: 50].
+- **Certifications:** FELASA Category C (Rat & Mouse).
 
 ## 📊 Current Projects
 - **Neuro-Data Pipeline:** Automating the analysis of HPLC-EC and LC-MS/MS metabolic datasets.
